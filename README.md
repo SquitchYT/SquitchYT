@@ -1,4 +1,4 @@
-<b>👋 Hello there, I'm Squitch, a young developer of 16 that actually work on Tess & Rtop</b>
+<b>👋 Hello there, I'm Squitch, a young student of 16 that work on Tess & Rtop</b>
 
 ## Stats
 <div>
