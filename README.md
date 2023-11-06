@@ -1,5 +1,5 @@
 ### 👋🏻 Hello there, I'm Squitch
-<b>A 17-year-old computer science degree student who develops useful things and plays games in his my spare time.</b>
+<b>A 17-year-old computer science degree student who develops useful things and plays games in his spare time.</b>
 
 <br>
 
