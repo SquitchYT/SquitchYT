@@ -1,11 +1,11 @@
 ### 👋🏻 Hello there, I'm Squitch
-<b>A 17-year-old computer science degree student who develops useful things and plays games in his spare time.</b>
+<b>A 18-year-old computer science degree student who develops useful things and plays games in his spare time.</b>
 
 <br>
 
 ### 🚧 Projects
 
-* **[Tess](example.org) - A blazing fast terminal built with Rust & Tauri**
+* **[Tess]([example.org](https://github.com/SquitchYT/Tess)) - A blazing fast terminal built with Rust & Tauri**
 * **[Rtop](https://github.com/RtopRS/Rtop) - A faster and better alternative to Vtop written in Rust**
 
 <br>
